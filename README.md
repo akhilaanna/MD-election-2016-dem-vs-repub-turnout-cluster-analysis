@@ -27,17 +27,15 @@ After determining random preset anchors, I used Excel Solver to calculate what t
 
 **Summary of the Solver output:** 
 
+![alt_text](anchor summary.png)
 
 **Meaning of above summary:** 
 
-
+![alt_text](anchor meaning.png) 
 
 **Geographic representation:** 
 
-![alt_text]maryland-county-map-with-stars.png
-
-**Meaning of above geographic representation:** 
-
+![alt_text](maryland-county-map-with-stars.png)
 
 ## Business Answer 
 
