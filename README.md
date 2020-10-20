@@ -41,7 +41,7 @@ After determining random preset anchors, I used Excel Solver to calculate what t
 
 ## Business Answer 
 
-The number of voters and voting turnout data for the two parties were distributed into three groups: 
+The number of voters and voting turnout data for the two parties were distributed into three groups:
 *Group 1* - fewer Dem. and Rep. voters than avg, higher Dem. and Rep. turnout than avg
 *Group 2* - fewer Dem. and Rep. voters than avg, lower Dem. and Rep. turnout than avg
 *Group 3* - more Dem. voters than avg with less than avg turnout; fewer Rep. voters than avg, and significantly less than avg turnout 
