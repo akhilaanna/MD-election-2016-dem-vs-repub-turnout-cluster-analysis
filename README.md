@@ -34,7 +34,7 @@ After determining random preset anchors, I used Excel Solver to calculate what t
 
 **Geographic representation:** 
 
-
+![alt_text]maryland-county-map-with-stars.png
 
 **Meaning of above geographic representation:** 
 
